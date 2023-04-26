@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Brzozol
 - 👀 I’m interested in process automation, programming 👨‍💻
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently programming in C# and learning F#
 - 📫 How to reach me brzozowskii.lukasz@gmail.com
 
 <!---
